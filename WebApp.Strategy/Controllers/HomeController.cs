@@ -1,4 +1,4 @@
-﻿using BaseProject.Models;
+﻿using WebApp.Strategy.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
